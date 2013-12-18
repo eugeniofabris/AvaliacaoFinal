@@ -1,0 +1,1 @@
+Licença GPL2
